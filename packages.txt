@@ -1,4 +1,7 @@
-libgl1-mesa-glx
-libglib2.0-0
-cmake
-streamlit
+libsm6
+libxext6
+libxrender-dev
+libjpeg-dev
+zlib1g-dev
+libtiff-dev
+libfreetype6-dev
