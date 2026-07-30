@@ -5,3 +5,6 @@ libjpeg-dev
 zlib1g-dev
 libtiff-dev
 libfreetype6-dev
+libopenjp2-7
+libtk8.6
+tcl8.6
